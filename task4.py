@@ -58,4 +58,5 @@ def main():
     with open('aws_validation.json', 'w') as f:
         json.dump(validation_data, f, indent=2)
     print("Validation data in aws_validation.json")
+main()
 
