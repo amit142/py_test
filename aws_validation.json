@@ -1,0 +1,11 @@
+{
+  "ec2": {
+    "instance_id": "mock_instance_id",
+    "state": "running",
+    "public_ip": "123.45.67.89"
+  },
+  "alb": {
+    "name": "mock_alb_name",
+    "dns_name": "my-load-balancer-123.elb.amazonaws.com"
+  }
+}
